@@ -1,0 +1,6 @@
+C:\Users\bvalentic\source\repos\Math!\Math!\bin\Debug\Math!.exe.config
+C:\Users\bvalentic\source\repos\Math!\Math!\bin\Debug\Math!.exe
+C:\Users\bvalentic\source\repos\Math!\Math!\bin\Debug\Math!.pdb
+C:\Users\bvalentic\source\repos\Math!\Math!\obj\Debug\Math!.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\Math!\Math!\obj\Debug\Math!.exe
+C:\Users\bvalentic\source\repos\Math!\Math!\obj\Debug\Math!.pdb

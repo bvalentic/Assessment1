@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\BondJames\BondJames\bin\Debug\BondJames.exe.config
+C:\Users\bvalentic\source\repos\BondJames\BondJames\bin\Debug\BondJames.exe
+C:\Users\bvalentic\source\repos\BondJames\BondJames\bin\Debug\BondJames.pdb
+C:\Users\bvalentic\source\repos\BondJames\BondJames\obj\Debug\BondJames.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\BondJames\BondJames\obj\Debug\BondJames.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\BondJames\BondJames\obj\Debug\BondJames.exe
+C:\Users\bvalentic\source\repos\BondJames\BondJames\obj\Debug\BondJames.pdb
